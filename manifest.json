@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "SaveLinks",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.jpg"
+    },
+    "permissions": ["tabs"]
+}
